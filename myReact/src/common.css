@@ -1,0 +1,8 @@
+/* 分页样式*/
+.pagenation{
+  margin-top: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+}
